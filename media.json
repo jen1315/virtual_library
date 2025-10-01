@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1, 
+    "title": "1984", 
+    "year": 1949, 
+    "descr": "Burning books.", 
+    "imgUrl": "./img/1984.jpg", 
+    "author": "George Orwell", 
+    "language": "english",
+    "type": "book"
+  },
+  {
+    "id": 2, 
+    "title": "Cars", 
+    "year": 2006, 
+    "descr": "A film about sentient cars.", 
+    "imgUrl": "./img/cars.jpg",
+    "director": "John Lasseter", 
+    "tot_minutes": 117,
+    "type": "film"
+  },
+  {
+    "id": 3, 
+    "title": "Overtourism in Venice", 
+    "year": 2023, 
+    "descr": "Overtourism in Venice and what policies have been applied to constrast it.", 
+    "imgUrl": "", 
+    "author": "Amanda Ceryll", 
+    "magazine": "Culture",
+    "type": "article"
+  },
+  {
+    "id": 4, 
+    "title": "Le Petit Prince", 
+    "year": 1943, 
+    "descr": "In the desert, I find a little prince from another world.", 
+    "imgUrl": "./img/petit-prince.jpeg", 
+    "author": "Antoine de Saint-Exùpery", 
+    "language": "french",
+    "type" : "book"
+  },
+  {
+    "id": 5, 
+    "title": "Superman (2025)", 
+    "year": 2025, 
+    "descr": "A retelling of the classic Superman.", 
+    "imgUrl": "", 
+    "director": "James Gunn", 
+    "tot_minutes": 129,
+    "type": "film"
+  }
+]
+
